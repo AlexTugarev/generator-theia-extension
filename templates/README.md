@@ -5,7 +5,7 @@ The example of how to build the Theia-based applications with the <%= params.ext
 
 Install [nvm](https://github.com/creationix/nvm#install-script).
 
-    curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.5/install.sh | bash
+    curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 
 Install npm and node.
 
